@@ -37,13 +37,23 @@ h1 {
 
 }
 img {
-    width: 40%;
+    width: 50%;
     height: 20%;
-    float: right;
+    float: none;
     border-radius: 50%;
     padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
+a {
+    font-family: sans-serif;
+    text-align: left;
+    font-style: italic;
+}
+ol {
+    text-align: left;
+}
 
 
 
