@@ -18,11 +18,30 @@ body {
     background-color: darkorange;
     text-decoration: darkorchid;
     text-overflow: ellipsis;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 120;
+    color: black;
 
 }
 .background{
-    background-color: rgb(122, 50, 204);
-    color: darkturquoise;
+    background-color: gainsboro;
+    color: rgb(0, 108, 209);
+    font-style: oblique;
+}
+h1 { 
+    font-family: serif;
+    font-style: normal;
+    font-size: 120%;
+    text-decoration-line: underline;
+    color: cyan;
+
+}
+img {
+    width: 40%;
+    height: 20%;
+    float: right;
+    border-radius: 50%;
+    padding: 5px;
 }
 
 
